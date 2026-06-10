@@ -1,0 +1,56 @@
+Feature,Coefficient,Absolute_Importance,Impact_on_Churn
+num__tenure,-1.0230800947785927,1.0230800947785927,Decreases Churn Probability
+cat__InternetService_Fiber optic,0.7164972309678738,0.7164972309678738,Increases Churn Probability
+cat__InternetService_DSL,-0.643083382108417,0.643083382108417,Decreases Churn Probability
+cat__Contract_Two year,-0.5986999576746314,0.5986999576746314,Decreases Churn Probability
+num__MonthlyCharges,-0.5429942422128918,0.5429942422128918,Decreases Churn Probability
+cat__IsMonthToMonth_No,-0.41613390765753344,0.41613390765753344,Decreases Churn Probability
+cat__TenureGroup_13-24 months,-0.3694754234068272,0.3694754234068272,Decreases Churn Probability
+cat__TenureGroup_49-72 months,0.33246423260504193,0.33246423260504193,Increases Churn Probability
+cat__StreamingMovies_Yes,0.27953301168629446,0.27953301168629446,Increases Churn Probability
+cat__StreamingTV_Yes,0.27021087730157084,0.27021087730157084,Increases Churn Probability
+cat__Contract_Month-to-month,0.2548723507515697,0.2548723507515697,Increases Churn Probability
+cat__IsMonthToMonth_Yes,0.2548723507515565,0.2548723507515565,Increases Churn Probability
+cat__PaperlessBilling_No,-0.252914404179653,0.252914404179653,Decreases Churn Probability
+cat__PaymentMethod_Electronic check,0.24036925369475104,0.24036925369475104,Increases Churn Probability
+cat__HasInternetService_No,-0.23467540576544343,0.23467540576544343,Decreases Churn Probability
+cat__StreamingMovies_No internet service,-0.23467540576544343,0.23467540576544343,Decreases Churn Probability
+cat__TechSupport_No internet service,-0.23467540576544343,0.23467540576544343,Decreases Churn Probability
+cat__DeviceProtection_No internet service,-0.23467540576544343,0.23467540576544343,Decreases Churn Probability
+cat__StreamingTV_No internet service,-0.23467540576544343,0.23467540576544343,Decreases Churn Probability
+cat__OnlineBackup_No internet service,-0.23467540576544343,0.23467540576544343,Decreases Churn Probability
+cat__InternetService_No,-0.23467540576544343,0.23467540576544343,Decreases Churn Probability
+cat__OnlineSecurity_No internet service,-0.23467540576544343,0.23467540576544343,Decreases Churn Probability
+cat__MultipleLines_No,-0.2239319089348132,0.2239319089348132,Decreases Churn Probability
+cat__StreamingMovies_No,-0.20611916282683507,0.20611916282683507,Decreases Churn Probability
+cat__OnlineSecurity_No,0.19785629536263463,0.19785629536263463,Increases Churn Probability
+cat__StreamingTV_No,-0.19679702844211433,0.19679702844211433,Decreases Churn Probability
+num__TotalCharges,0.18678624644372635,0.18678624644372635,Increases Churn Probability
+cat__Dependents_Yes,-0.18572253765615748,0.18572253765615748,Decreases Churn Probability
+cat__Contract_One year,0.18256605001709417,0.18256605001709417,Increases Churn Probability
+cat__MultipleLines_Yes,0.16802841430536836,0.16802841430536836,Increases Churn Probability
+cat__TenureGroup_25-48 months,-0.16392360759206803,0.16392360759206803,Decreases Churn Probability
+cat__TechSupport_No,0.160159950913768,0.160159950913768,Increases Churn Probability
+cat__PaymentMethod_Bank transfer (automatic),-0.15833706045002746,0.15833706045002746,Decreases Churn Probability
+num__AverageChargesPerTenure,-0.1434632107942299,0.1434632107942299,Decreases Churn Probability
+cat__PaymentMethod_Credit card (automatic),-0.1332204672320549,0.1332204672320549,Decreases Churn Probability
+cat__OnlineSecurity_Yes,-0.12444244650317064,0.12444244650317064,Decreases Churn Probability
+cat__PaymentMethod_Mailed check,-0.11007328291865688,0.11007328291865688,Decreases Churn Probability
+cat__PhoneService_No,-0.10535806227651832,0.10535806227651832,Decreases Churn Probability
+cat__MultipleLines_No phone service,-0.10535806227651832,0.10535806227651832,Decreases Churn Probability
+cat__Partner_No,-0.09635175826650318,0.09635175826650318,Decreases Churn Probability
+cat__gender_Female,-0.0945661535917775,0.0945661535917775,Decreases Churn Probability
+cat__PaperlessBilling_Yes,0.09165284727367808,0.09165284727367808,Increases Churn Probability
+cat__TechSupport_Yes,-0.08674610205430473,0.08674610205430473,Decreases Churn Probability
+cat__OnlineBackup_No,0.0758119512259631,0.0758119512259631,Increases Churn Probability
+cat__HasInternetService_Yes,0.07341384885946325,0.07341384885946325,Increases Churn Probability
+cat__DeviceProtection_Yes,0.06737881487606992,0.06737881487606992,Increases Churn Probability
+cat__gender_Male,-0.0666954033142044,0.0666954033142044,Decreases Churn Probability
+cat__Partner_Yes,-0.06490979863947972,0.06490979863947972,Decreases Churn Probability
+num__SeniorCitizen,0.05997465243802578,0.05997465243802578,Increases Churn Probability
+cat__PhoneService_Yes,-0.055903494629452544,0.055903494629452544,Decreases Churn Probability
+num__NumberOfSupportServices,0.04644074427662077,0.04644074427662077,Increases Churn Probability
+cat__TenureGroup_0-12 months,0.03967324148787404,0.03967324148787404,Increases Churn Probability
+cat__Dependents_No,0.024460980750178236,0.024460980750178236,Increases Churn Probability
+cat__DeviceProtection_No,0.0060350339833876165,0.0060350339833876165,Increases Churn Probability
+cat__OnlineBackup_Yes,-0.0023981023665013896,0.0023981023665013896,Decreases Churn Probability
