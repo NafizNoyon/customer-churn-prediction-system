@@ -260,7 +260,7 @@ col1, col2 = st.columns([1, 1])
 
 with col1:
     st.subheader("Customer Input Preview")
-    st.dataframe(input_data, use_container_width=True)
+    st.dataframe(input_data, width="stretch")
 
 with col2:
     st.subheader("Model Information")
