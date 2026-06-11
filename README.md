@@ -1,3 +1,10 @@
+## Live Demo
+
+🔗 Live App: https://customer-churn-prediction-system-pttowxxfebixscym7aenmf.streamlit.app/
+
+🔗 GitHub Repository: https://github.com/NafizNoyon/customer-churn-prediction-system
+
+
 # Customer Churn Prediction System
 
 An end-to-end machine learning project that predicts customer churn risk using customer profile, service usage, billing information, and contract details. The project covers the complete machine learning workflow: data cleaning, feature engineering, model comparison, threshold tuning, explainability, business risk categorization, and Streamlit deployment.
